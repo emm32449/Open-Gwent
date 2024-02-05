@@ -1,0 +1,57 @@
+Albrich,Unit,2,Nilfgaardian Empire
+Assire var Anahid,Unit,6,Nilfgaardian Empire
+Barclay Els,Unit,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Scoia'tael
+Black Infantry Archer,Unit,10,Nilfgaardian Empire
+Celaeno Harpy,Unit,2,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Monsters
+Ciaran aep Easnillien,Unit,3,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Scoia'tael
+Clan Brokvar Archer,Unit,6,Skellige
+Clan Dimun Pirate,Unit,6,Scorch: Kills the strongest card(s) on the battlefield.,Skellige
+Cockatrice,Unit,2,Monsters
+Cow,Unit,0,When this card is removed from the battlefield it summons a powerful new Unit Card to take its place.,Neutral,Gwent neutral cards
+Crinfrid Reavers Dragon Hunter,Unit,5,Tight Bond: Place next to a card with the same name to double the strength of both cards.,Northern Realms
+Cynthia,Unit,4,Nilfgaardian Empire
+Dethmold,Unit,6,Northern Realms
+Dol Blathanna Archer,Unit,4,Scoia'tael
+Dol Blathanna Scout,Unit,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Scoia'tael
+Eithné,Hero,10,Hero: Not affected by any Special Cards or abilities.,Scoia'tael
+Elven Skirmisher,Unit,2,Muster: Find any cards with the same name in your deck and play them instantly.,Scoia'tael
+Endrega,Unit,2,Monsters
+Ermion,Hero,8,Hero: Not affected by any Special Cards or abilities.Mardroeme: Triggers transformation of all Berserker cards on the same row.,Skellige
+Etolian Auxiliary Archers,Unit,1,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,Nilfgaardian Empire
+Filavandrel aen Fidhail,Unit,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Scoia'tael
+Fringilla Vigo,Unit,6,Nilfgaardian Empire
+Gargoyle,Unit,2,Monsters
+Gaunter O'Dimm: Darkness,Unit,4,Muster: Find any cards with the same name in your deck and play them instantly.,Neutral,Gwent neutral cards
+Grave Hag,Unit,5,Monsters
+Harpy,Unit,2,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Monsters
+Havekar Healer,Unit,0,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).,Scoia'tael
+Hjalmar,Hero,10,Hero: Not affected by any Special Cards or abilities.,Skellige
+Ida Emean aep Sivney,Unit,6,Scoia'tael
+Iorveth,Hero,10,Hero: Not affected by any Special Cards or abilities.,Scoia'tael
+Kayran,Hero,8,Hero: Not affected by any Special Cards or abilities.Morale boost: Adds +1 to all units in the row (excluding itself).Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Monsters
+Keira Metz,Unit,5,Northern Realms
+Leshen,Hero,10,Hero: Not affected by any Special Cards or abilities.,Monsters
+Light Longship,Unit,4,Muster: Find any cards with the same name in your deck and play them instantly.,Skellige
+Milva,Unit,10,Morale boost: Adds +1 to all units in the row (excluding itself).,Scoia'tael
+Olaf,Unit,12,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.Morale boost: Adds +1 to all units in the row (excluding itself).,Skellige
+Olgierd von Everec,Unit,6,Morale boost: Adds +1 to all units in the row (excluding itself).Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Neutral,Gwent neutral cards
+Philippa Eilhart,Hero,10,Hero: Not affected by any Special Cards or abilities.,Northern Realms
+Puttkammer,Unit,3,Nilfgaardian Empire
+Renuald aep Matsen,Unit,5,Nilfgaardian Empire
+Riordain,Unit,1,Scoia'tael
+Sabrina Glevissig,Unit,4,Northern Realms
+Saesenthessis,Hero,10,Hero: Not affected by any Special Cards or abilities.,Scoia'tael
+Sheldon Skaggs,Unit,4,Northern Realms
+Sweers,Unit,2,Nilfgaardian Empire
+Síle de Tansarville,Unit,5,Northern Realms
+Tibor Eggebracht,Hero,10,Hero: Not affected by any Special Cards or abilities.,Nilfgaardian Empire
+Toad,Unit,7,Scorch - Ranged: Destroy your enemy's strongest Ranged Combat unit(s) if the combined strength of all his or her Ranged Combat units is 10 or more.,Monsters
+Toruviel,Unit,2,Scoia'tael
+Transformed Young Vildkaarl,Unit,8,Tight Bond: Place next to a card with the same name to double the strength of both cards.,Skellige
+Vanhemar,Unit,4,Nilfgaardian Empire
+Vrihedd Brigade Recruit,Unit,4,Scoia'tael
+Vrihedd Brigade Veteran,Unit,5,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Scoia'tael
+Wyvern,Unit,2,Monsters
+Yaevinn,Unit,6,Agile: Can be placed in either the Close Combat or the Ranged Combat row. Cannot be moved once placed.,Scoia'tael
+Yennefer of Vengerberg,Hero,7,Medic: Choose one card from your discard pile and play it instantly (no Heroes or Special Cards).Hero: Not affected by any Special Cards or abilities.,Neutral,Gwent neutral cards
+Young Berserker,Unit,2,Transforms into a bear when a Mardroeme card is on its row.,Skellige
