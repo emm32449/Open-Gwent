@@ -50,6 +50,6 @@ Open Gwent was inspired by or uses the following resources:
 
 - Gwent: A card game from inside The Witcher 3: Wild Hunt, developed by CD Projekt Red.
 - AlphaGo Zero: A paper by DeepMind that describes how they created a self-learning program that mastered the game of Go
-- Microsoft Copilot (formerly Bing Chat): An AI companion that helped us write this README and some parts of the code
+- Microsoft Copilot (formerly Bing Chat): An AI companion that helped us write this README and the code
 
 Thank you for your interest in Open Gwent. We hope you enjoy playing it or contributing to it. If you have any questions or feedback, please feel free to contact us at emm32449@gmail.com.
