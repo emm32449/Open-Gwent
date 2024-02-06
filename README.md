@@ -32,6 +32,12 @@ Open Gwent has the following features:
 Open Gwent is licensed under the MIT License. See LICENSE for more details.
 
 ## Contributing
+Our project aims to create an open source version of the Gwent game from the Witcher 3, using the MCTS algorithm and a neural network to train a smart opponent. We are always looking for new ways to improve our project and make it more fun and challenging. You can contribute to the open gwent game w/MCTS in two main ways:
+
+- Machine Learning Part: You can help us enhance the training process by implementing new features, optimizing the code, or experimenting with different hyperparameters. You can also suggest new games or domains that can be solved by the MCTS algorithm and the neural network.
+- Game & Evaluation Part: You can help us make the game more interesting and engaging by adding by adding new rules, Google Colab Widgets, or Python Code. You can also test the model's performance and behavior by playing against it or analyzing its decisions.
+
+Whether you are a machine learning enthusiast, a game developer, or a curious tester, you can be part of our community of AI and gaming enthusiasts. You will also learn new skills and gain valuable experience along the way. We appreciate your interest and support in our project and we hope you enjoy it as much as we do.
 
 Open Gwent welcomes contributions from anyone who wants to improve or enhance the project. To contribute, please follow these steps:
 
