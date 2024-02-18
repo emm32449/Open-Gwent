@@ -18,8 +18,8 @@ To run Open Gwent, follow these steps:
 - Run the cells in the notebook to try it out.
 - Enjoy playing Open Gwent!
 
-![gwent](https://github.com/count-rostov/Open-Gwent/assets/159494114/9c135444-4a6c-42e3-8438-875c26b82ad4)
-
+![gwent]()
+<img src="https://github.com/count-rostov/Open-Gwent/assets/159494114/9c135444-4a6c-42e3-8438-875c26b82ad4" width="50%">
 ## Features
 
 Open Gwent has the following features:
