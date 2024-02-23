@@ -1,0 +1,4 @@
+Commander's Horn,Special,Neutral
+Decoy,Special,Neutral
+Mardroeme,Special,
+Scorch,Special,Neutral

@@ -1,0 +1,5 @@
+Biting Frost,Sets the strength of all Close Combat cards to 1 for both players.
+Clear Weather,Removes all Weather Card (Biting Frost, Impenetrable Fog and Torrential Rain) effects.
+Impenetrable Fog,Sets the strength of all Ranged Combat cards to 1 for both players.
+Skellige Storm,Reduces the Strength of all Range and Siege Units to 1.
+Torrential Rain,Sets the strength of all Siege Combat cards to 1 for both players.
